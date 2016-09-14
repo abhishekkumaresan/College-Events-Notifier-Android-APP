@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">College Events Notifier</string>
+    <string name="keyword_to_search" />
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="17"
+    density="hdpi"
+    format="7"
+    timestamp="8096569759654"
+    token="3789787531856401846" >
+
+    <task
+        name="javac"
+        duration="233" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="16" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/home/abishek/AndroidStudioProjects/CollegeEventsNotifier/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="8096569759654" >
+        <artifact
+            location="/home/abishek/AndroidStudioProjects/CollegeEventsNotifier/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
